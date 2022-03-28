@@ -24,6 +24,7 @@
   </p>
   <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongoDB&logoColor=white&fontColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white"/>
 </p>
@@ -38,7 +39,7 @@
 <!--   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white&fontColor=white"/> -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&fontColor=white"/>
 <!-- <img src="https://img.shields.io/badge/Swift-F05138?style=plastic&logo=swift&logoColor=white&fontColor=white"/> -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongoDB&logoColor=white&fontColor=white"/>
+  
   <img src="https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=AmazonAWS&logoColor=white&fontColor=white"/>
 <!--   <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white&fontColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white&fontColor=white"/> -->
