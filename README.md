@@ -1,46 +1,63 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&text=오늘과는다른내일&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&text=어제와는%20다른%20오늘&animation=fadeIn&fontSize=80)
 
-<h2 align="center"> 🚀 Jemma's Github PortFolio 🚀</h2>
+<h2 align="center"> 🚀 JEMMA's TECH TREE 🚀</h2>
 
 <br>
 
+<h4 align="center"> 저는 빅데이터 기반의 모바일 앱 제작을 목표로 하는, 아직은 신입 프론트엔드 개발자 입니다.🐣 <br> 가까운 미래에 사람들을 편리하게 해주는 기술이 무엇일까? 스스로에게 질문을 던지고 답을 구하며 진로를 탐구하는 중입니다. <br> 현재는 메타버스 관련 회사에서 모바일 웹앱을 제작하고 있습니다.<h4>
 
-<h3> 🌳 SKILLS </h3>
 
+<br>
+	
+	
+	
+<br>
 
- <p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=Flutter&logoColor=white"/> 
-<img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white&"/>
-<!--   <img src="https://img.shields.io/badge/Redux-764ABC?style=plastic&logo=redux&logoColor=white"/> -->
-<img src="https://img.shields.io/badge/Vue-4FC08D?style=plastic&logo=vue.js&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/JSON Web Tokens-262627?style=plastic&logo=jsonwebtokens&logoColor=white"/> -->
- </p>
- <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white"/>
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white"/> -->
- <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white"/>
-  </p>
-  <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
- <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongoDB&logoColor=white&fontColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white"/>
-</p>
-
+<div align="center">
+	<h3> 활용 가능한 스킬 </h3>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white&"/> 
+<br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongoDB&logoColor=white&fontColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 <br><br>
 
-<h3> 📝 TIL </h3>
+<h3> 공부중인 스킬 </h3>
+<img src="https://img.shields.io/badge/Python-FECC00?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white&fontColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&fontColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&fontColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white&fontColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=AmazonAWS&logoColor=white&fontColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&fontColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&fontColor=white"/>
 
-<p> 
-  <img src="https://img.shields.io/badge/django-092E20?style=plastic&logo=django&logoColor=white&fontColor=white"/>
-<!--   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white&fontColor=white"/> -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&fontColor=white"/>
-<!-- <img src="https://img.shields.io/badge/Swift-F05138?style=plastic&logo=swift&logoColor=white&fontColor=white"/> -->
+</div>
+
+<br><br>
+
+
+<h3 align="center">Github Status</h3>
+
+<div align="center">
+	
+![Jemma's GitHub stats](https://github-readme-stats.vercel.app/api?username=jemmajeon&show_icons=true&theme=merko)
+	[![자주 사용하는 Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=jemmajeon&layout=compact&theme=merko&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
+</div>
   
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=AmazonAWS&logoColor=white&fontColor=white"/>
-<!--   <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white&fontColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white&fontColor=white"/> -->
-</p>
+  
+  
+
+
+	
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&animation=fadeIn&fontSize=80&section=footer)
