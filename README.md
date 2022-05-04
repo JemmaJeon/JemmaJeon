@@ -51,8 +51,8 @@
 
 <div align="center">
 	
-![Jemma's GitHub stats](https://github-readme-stats.vercel.app/api?username=jemmajeon&show_icons=true&theme=merko)
-	[![자주 사용하는 Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=jemmajeon&layout=compact&theme=merko&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
+![Jemma's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejayjeon&show_icons=true&theme=merko)
+	[![자주 사용하는 Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ejayjeon&layout=compact&theme=merko&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
 </div>
   
   
