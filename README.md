@@ -20,12 +20,13 @@
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=plat&logo=vue.js&logoColor=white"/> 
 <img src="https://img.shields.io/badge/React-61DAFB?style=plat&logo=React&logoColor=white&"/>
 <br>
-	<img src="https://img.shields.io/badge/Dart-0175C2?style=plat&logo=dart&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Dart-0175C2?style=plat&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-7F52FF?style=plat&logo=Kotlin&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plat&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=plat&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nest.js-E0234E?style=plat&logo=NestJS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=plat&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nest.js-E0234E?style=plat&logo=NestJS&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=plat&logo=mongoDB&logoColor=white&fontColor=white"/>
