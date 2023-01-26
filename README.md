@@ -17,33 +17,33 @@
 <h3> 활용 가능한 스킬 </h3>
 	<h4>프론트 프레임워크</h4>	
 <img src="https://img.shields.io/badge/Flutter-02569B?style=plat&logo=Flutter&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/> 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white&"/>
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=plat&logo=vue.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=plat&logo=React&logoColor=white&"/>
 <br>
-	<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Dart-0175C2?style=plat&logo=dart&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plat&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=plat&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=plat&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nest.js-E0234E?style=plat&logo=NestJS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=plat&logo=java&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongoDB&logoColor=white&fontColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=plat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=plat&logo=mongoDB&logoColor=white&fontColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=plat&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-181717?style=plat&logo=github&logoColor=white"/>
 
 <br><br>
 
 <h3> 공부중인 스킬 </h3>
-<img src="https://img.shields.io/badge/Python-FECC00?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white&fontColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&fontColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&fontColor=white"/>
+<img src="https://img.shields.io/badge/Python-FECC00?style=plat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/django-092E20?style=plat&logo=django&logoColor=white&fontColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=plat&logo=pandas&logoColor=white&fontColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plat&logo=tensorflow&logoColor=white&fontColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white&fontColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=AmazonAWS&logoColor=white&fontColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&fontColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&fontColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=plat&logo=swift&logoColor=white&fontColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=plat&logo=AmazonAWS&logoColor=white&fontColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=plat&logo=docker&logoColor=white&fontColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plat&logo=kubernetes&logoColor=white&fontColor=white"/>
 
 </div>
 
