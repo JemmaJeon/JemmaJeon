@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&text=Future&animation=fadeIn&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&text=정리중...&animation=fadeIn&fontSize=80)
 
 <div align="center">
 
